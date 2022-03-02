@@ -14,6 +14,7 @@
   /*
 
   - Initialize a count variable to 0.
+  - Loop through the bits of n.
   
 
 
