@@ -3,6 +3,6 @@
  * @return {number}
  */
  var hammingWeight = function(n) {
-    
+    let count = 0;
   };
   
